@@ -4,6 +4,12 @@
 ### [下载](https://xlc.lanzouh.com/b0cs3tmid)
 >密码:98zx
 - [使用方法](./usage.md)
+5月20日全局接口
+
+https://raw.fastgit.org/tvboxep/MaoTV/main/biu/1652339973.json
+
+
+
 
 >2022年5月9日 重新分类目录，失效请重新使用下方最新地址，可以GitHub的源或者第三方地址，GitHub只是做保存分流搬运。
 

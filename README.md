@@ -11,7 +11,8 @@ https://raw.fastgit.org/tvboxep/MaoTV/main/biu/1652339973.json
 
 
 
-
+国内镜像示例
+https://raw.fastgit.org/tvboxep/MaoTV/main/mao/m3.txt
 
 >2022年5月9日 重新分类目录，失效请重新使用下方最新地址，可以GitHub的源或者第三方地址，GitHub只是做保存分流搬运。
 

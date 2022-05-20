@@ -1,12 +1,14 @@
 ### [BiuBiuTV](./BiuBiuTV.md)（支持添加片源接口）
 
+
+5月20日全局接口：
+https://raw.fastgit.org/tvboxep/MaoTV/main/biu/1652339973.json
+
 # MaoTV
 ### [下载](https://xlc.lanzouh.com/b0cs3tmid)
 >密码:98zx
 - [使用方法](./usage.md)
-5月20日全局接口
 
-https://raw.fastgit.org/tvboxep/MaoTV/main/biu/1652339973.json
 
 
 

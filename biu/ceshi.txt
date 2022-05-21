@@ -5,3 +5,5 @@ CCTV-1综合频道,http://111.40.196.33/PLTV/88888888/224/3221225769/index.m3u8?
 CCTV-1综合频道,http://111.20.106.13:6610/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$移动超清1080P
 CCTV-2财经频道0,http://39.135.55.7:6610/PLTV/88888888/224/3221225800/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 ##
+
+

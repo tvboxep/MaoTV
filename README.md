@@ -9,7 +9,7 @@ https://raw.fastgit.org/tvboxep/MaoTV/main/biu/1652339973.json
 >密码:98zx
 - [使用方法](./usage.md)
 
-
+猫影视停用了，可以使用tvbox看，接口可用原猫影视接口,下载https://gitee.com/smtyu/mao-1?_from=gitee_search
 
 国内镜像示例
 https://raw.fastgit.org/tvboxep/MaoTV/main/mao/m3.txt
